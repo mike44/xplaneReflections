@@ -1,0 +1,10 @@
+Environment and chrome reflections (sphere mapping) for X-Plane.
+
+Based on:
+http://nehe.gamedev.net/tutorial/sphere_mapping_quadrics_in_opengl/15005/
+
+You need to export your mesh with:
+http://ksolek.fm.interiowo.pl/Blender/
+to untitled.h which will be compiled into the plugin.
+
+With Eclipse on Linux select existing code. (hidden project files)
